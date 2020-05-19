@@ -1,0 +1,2 @@
+rootProject.name='pamiii'
+include ':app'
